@@ -1,0 +1,345 @@
+{
+    "data":[
+        {
+            "id": "01",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "02",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "03",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "04",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "05",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "06",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "07",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "08",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "09",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "10",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "11",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "12",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "13",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },{
+            "id": "15",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "16",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "17",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "18",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "19",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        },
+        {
+            "id": "20",
+            "category": "Unisex",
+            "name": "Hoodie 1",
+            "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
+            "colors": ["Black", "White", "Navy", "Grey-Marble"],
+            
+            "price":"100SEK",
+            "img":"länk till img",
+            "material": {
+                "coton": "15%",
+                "organic-coton": "75%",
+                "polyester": "10%"
+            },
+            "star":"4",
+            "sizes":["XS","S","M" ,"L","XL"],
+            "packet-front": true
+        }
+    ]
+}
