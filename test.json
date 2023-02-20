@@ -20,7 +20,7 @@
         {
             "id": "02",
             "category": "Unisex",
-            "name": "Hoodie 1",
+            "name": "Hoodie 2",
             "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
             "colors": ["Black", "White", "Navy", "Grey-Marble"],
             
@@ -38,7 +38,7 @@
         {
             "id": "03",
             "category": "Unisex",
-            "name": "Hoodie 1",
+            "name": "Hoodie 3",
             "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
             "colors": ["Black", "White", "Navy", "Grey-Marble"],
             
@@ -56,7 +56,7 @@
         {
             "id": "04",
             "category": "Unisex",
-            "name": "Hoodie 1",
+            "name": "Hoodie 4",
             "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
             "colors": ["Black", "White", "Navy", "Grey-Marble"],
             
@@ -74,7 +74,7 @@
         {
             "id": "05",
             "category": "Unisex",
-            "name": "Hoodie 1",
+            "name": "Hoodie 5",
             "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
             "colors": ["Black", "White", "Navy", "Grey-Marble"],
             
@@ -92,7 +92,7 @@
         {
             "id": "06",
             "category": "Unisex",
-            "name": "Hoodie 1",
+            "name": "Hoodie 6",
             "description": "Lorem Ipsum är en utfyllnadstext från tryck- och förlagsindustrin.",
             "colors": ["Black", "White", "Navy", "Grey-Marble"],
             
