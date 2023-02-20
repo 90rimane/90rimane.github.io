@@ -1,5 +1,4 @@
-{
-    "data":[
+[
         {
             "id": "01",
             "category": "Unisex",
@@ -342,4 +341,3 @@
             "packet-front": true
         }
     ]
-}
