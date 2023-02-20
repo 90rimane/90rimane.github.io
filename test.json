@@ -7,7 +7,7 @@
             "colors": ["Black", "White", "Navy", "Grey-Marble"],
             
             "price":"100SEK",
-            "img":"länk till img",
+            "img":"/img/id01.jpg",
             "material": {
                 "coton": "15%",
                 "organic-coton": "75%",
